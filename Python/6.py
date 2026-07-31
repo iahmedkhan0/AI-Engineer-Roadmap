@@ -1,0 +1,7 @@
+name = input("What is your name? ")
+age = int(input("What is your age? "))
+pl = input("What is your favourite programming language? ")
+print(f"Hello {name}!")
+print(f"You are {age} years old")
+print(f"Your favourite programming language is {pl}")
+print("Welcome to your AI journey")
